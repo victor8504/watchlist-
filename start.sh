@@ -1,0 +1,2 @@
+export MOVIE_API_KEY = 79922bbf3bd53d870699830261d2dedd
+export SECRET_KEY = vnju
